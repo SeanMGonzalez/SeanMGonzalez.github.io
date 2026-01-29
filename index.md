@@ -1,182 +1,101 @@
-Sean M. Gonzalez (He/Him)
-Technical Product Manager • Full-Stack Engineer • Web3 Builder
+---
+layout: default
+title: "Sean M. Gonzalez"
+---
 
-Web3 Alias: Aphilos
-Reno, Nevada (Remote – PT)
-Email: sean.moore.gonzalez@gmail.com
+# Sean M. Gonzalez (He/Him)
+**Technical Product Manager • Full-Stack Engineer • Web3 Builder**  
+Reno, NV (Remote) • Web3 alias: **Aphilos**  
+Email: **sean.moore.gonzalez@gmail.com** • Phone: **609-923-3179**  
+GitHub: https://github.com/SeanMGonzalez • LinkedIn: https://linkedin.com/in/seanmooregonzalez
 
-GitHub: https://github.com/SeanMGonzalez
+---
 
-LinkedIn: https://linkedin.com/in/seanmooregonzalez
-
-🧭 About Me
-
+## About
 I’m a technical product manager and full-stack engineer with:
+- **23 years** in software development
+- **11 years** as a DoD algorithm developer (2002–2013)
+- **10 years** in product design, **4 years** in UX/UI
+- **5 years** building EVM-based decentralized apps
+- **17 years** in business development
+- Founder of **Data Community DC (2012–present)**
 
-23 years of software engineering experience
+I specialize in turning complex systems into clear product specs, roadmaps, and shipped software—especially in web3 / protocol-adjacent environments.
 
-11 years of algorithm development (U.S. DoD)
+---
 
-10 years of product design
+## Featured projects
 
-4 years of UX/UI development
+### Pharo — Decentralized Insurance
+**Role:** Product lead • Full-stack engineer • Smart contract design  
+**Focus:** risk pools, claims logic, staking/liquidity flows  
+**Tech:** Solidity, TypeScript, Node.js, React/Next.js
 
-5 years building decentralized applications
+**What I did**
+- Wrote product requirements and system design for core flows
+- Designed contract interaction patterns and user-facing flows
+- Built prototypes and supporting services
 
-17 years in business development
+---
 
-I specialize in turning complex technical problems into clear roadmaps, specs, and shipped products. My background combines:
+### SiPPP — Simple Photo Provenance Protocol
+**Role:** Protocol designer • Full-stack developer • UX  
+**Focus:** authenticity, provenance, signature-based verification  
+**Tech:** Python, Node.js, TypeScript, cryptographic signatures
 
-Systems-level thinking (DoD algorithms)
+**What I did**
+- Designed verification/signature flow and API architecture
+- Built working prototypes and UX for trust + simplicity tradeoffs
 
-Protocol and smart contract design
+---
 
-Frontend and full-stack engineering
+### NWTT — Crypto Mining Supply Chain
+**Role:** Product manager • System designer • Frontend engineer  
+**Focus:** tracking, state transitions, data integrity  
+**Tech:** Solidity, TypeScript, Next.js, Node.js
 
-Decentralized identity & provenance
+**What I did**
+- Defined on-chain/off-chain architecture and requirements
+- Built dashboards and integration flows
 
-User experience and design systems
+---
 
-Leading cross-functional engineering teams
+### SideventS — Decentralized Event Management
+**Role:** Product • UX • Full-stack  
+**Focus:** event creation, RSVP/check-in, wallet-based flows  
+**Tech:** Next.js, Node.js, web3 wallet integrations
 
-I thrive in async-first, highly technical teams building the infrastructure of the future.
+**What I did**
+- Designed event lifecycle UX and product flows
+- Built MVP and documentation for onboarding
 
-🚀 Featured Projects
+---
 
-Below are a curated set of projects showing my product, protocol, and engineering experience.
-All reflect real-world problems, system design, and hands-on full-stack development.
+### CryptoRides — Crypto-Funded Rides to Polls
+**Role:** Product lead • Full-stack developer  
+**Focus:** real-world impact, donor UX, integrations  
+**Tech:** Next.js, Node.js, web3 APIs
 
-🔐 Pharo — Decentralized Insurance Protocol
+**What I did**
+- Led product and MVP development end-to-end
+- Built backend + frontend and partner-facing demo flow
 
-Role: Product Lead • Smart Contract Designer • Full-Stack Engineer
-Tech: Solidity, TypeScript, Node, React/Next.js
+---
 
-Overview
+## Skills
+**Product:** roadmaps, requirements/specs, prioritization, stakeholder alignment, technical writing  
+**Frontend:** HTML, CSS/Tailwind, React, Next.js, Vue, TypeScript  
+**Backend:** Node.js, Python, REST, GraphQL  
+**Web3:** Solidity, EVM, wallet integration, smart contracts, token design
 
-Pharo is a trust-minimized insurance and risk-pooling system. I designed product logic, contract structure, and claims flows, and built the associated frontend and APIs.
+---
 
-Contributions
+## Links
+- GitHub: https://github.com/SeanMGonzalez
+- GitHub (General Influence): https://github.com/GeneralInfluence
+- LinkedIn: https://linkedin.com/in/seanmooregonzalez
 
-Defined product architecture for decentralized risk pools
+---
 
-Created specification documents for claims logic
-
-Designed staking and liquidity flows
-
-Built prototype contracts in Solidity
-
-Developed frontend components for user onboarding
-
-GitHub: (public components to be added)
-
-🪪 SiPPP (Simple Photo Provenance Protocol)
-
-Role: Protocol Designer • Full-Stack Developer • Product & UX
-Tech: Python, Node.js, TypeScript, React/Next.js, Cryptographic signatures
-
-Overview
-
-A decentralized photo verification and provenance protocol. It enables creators to sign their photos and verify authenticity without centralized authorities.
-
-Contributions
-
-Designed the verification flow using signature-based provenance
-
-Developed backend + frontend prototypes
-
-Wrote product requirements for verification UI
-
-Built UX that balances trust, simplicity, and performance
-
-GitHub: (public snapshot available upon request)
-
-⛓ NWTT (Mining Supply Chain Tracking)
-
-Role: Product Manager • System Architect • Frontend Engineer
-Tech: Solidity, TypeScript, Next.js, Node.js
-
-Overview
-
-A real-time mining supply-chain tracking system for crypto mining hardware.
-
-Contributions
-
-Designed on-chain/off-chain supply-chain flow
-
-Wrote requirements for contract interactions
-
-Built frontend dashboards
-
-Coordinated engineering on state machine logic
-
-🎫 SideventS — Decentralized Event Management
-
-Role: Product • UX • Full-Stack
-Tech: Next.js, Node.js, EVM tools, Web3 wallets
-
-Overview
-
-Event coordination and ticketing for web3-based communities (ETHDenver ecosystem).
-
-Contributions
-
-Designed UX for event creation and RSVP
-
-Built full-stack flows for wallet-based check-ins
-
-Wrote technical docs and API handoffs
-
-🚗 CryptoRides — Crypto-Funded Rides to Polling Stations
-
-Role: Product Lead • Full-Stack Developer
-Tech: React/Next.js, Node, web3 API integration
-
-Overview
-
-Platform enabling donors to fund rides for voters using cryptocurrency.
-
-Contributions
-
-Defined end-to-end product roadmap
-
-Built MVP frontend + backend
-
-Coordinated external integrations
-
-Demoed to civic-infrastructure partners
-
-⚙️ Core Technical Skills
-
-Languages:
-Python, JavaScript, TypeScript, Solidity, HTML/CSS
-
-Frameworks & Tools:
-React, Next.js, Node.js, TailwindCSS, Vite, Hardhat, Foundry
-
-Product Skills:
-Technical specification writing, feature prioritization, roadmap design, user flows, UX prototyping, design systems
-
-System Experience:
-Decentralized identity, provenance, smart contract architecture, L1/L2 design patterns, cryptographic signatures
-
-🏛 Professional Background
-Independent Technical PM & Full-Stack Engineer (2013–2025)
-
-Product design, engineering leadership, protocol UX, and developer tooling.
-
-U.S. Department of Defense — Algorithm Developer (2002–2013)
-
-Developed mission-critical algorithms and computational models under strict reliability constraints.
-
-Community Leadership
-
-Founder of Data Community DC — one of the largest grassroots data-science communities in the U.S.
-
-👋 Let’s Work Together
-
-If you’re building infrastructure, decentralized protocols, or developer platforms, I’d love to collaborate.
-
-Email: sean.moore.gonzalez@gmail.com
-
-GitHub: github.com/SeanMGonzalez
-LinkedIn: linkedin.com/in/seanmooregonzalez
+## Contact
+Email: **sean.moore.gonzalez@gmail.com**
