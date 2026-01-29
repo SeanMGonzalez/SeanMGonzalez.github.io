@@ -24,18 +24,19 @@ I am a technical product manager, protocol designer, and full-stack engineer wit
 - **5 years** building decentralized apps  
 - **17 years** of business development  
 - **13 years** of community leadership  
-- Founder of **Data Community DC**  
-- Director of **Lobby3** and creator of **DeVox**  
+- **Founder of Data Community DC**  
+- **Director of Lobby3 & creator of DeVox**  
+- **Founder & Lead Consultant of General Influence LLC (since 2015)**  
 
-I specialize in designing, building, and communicating complex systems — especially decentralized protocols, identity, insurance, provenance, and web3 infrastructure.
+I specialize in designing and communicating complex systems — decentralized protocols, insurance logic, provenance workflows, identity layers, distributed systems, and AI-powered infrastructure.
 
-I am most effective in small–medium remote teams that value clear specifications, deep technical thinking, and a strong product philosophy.
+I excel in small–medium remote teams that value clarity, technical depth, and thoughtful product execution.
 
 ---
 
 # 🚀 Featured Projects
 
-Below are selected projects demonstrating system design, protocol thinking, product leadership, full-stack engineering, and UX integration.
+Below are selected projects demonstrating system design, decentralized architecture, full-stack development, protocol thinking, and product leadership.
 
 ---
 
@@ -45,15 +46,15 @@ Below are selected projects demonstrating system design, protocol thinking, prod
 **URL:** https://github.com/Lobby3/DeVox
 
 ### Overview  
-DeVox is a decentralized impact protocol created to democratize political participation using pooled petitions, quadratic funding, and decentralized influence tools.  
-I founded DeVox within Lobby3 and led the product vision, protocol architecture, governance mechanics, technical direction, and community strategy.
+DeVox democratizes political participation using pooled petitions, quadratic voting, and decentralized influence tools.  
+I founded DeVox within Lobby3 and led the product vision, governance architecture, and protocol mechanics.
 
 ### Key Contributions  
-- Created concept, mission, and protocol structure  
-- Designed decentralized voting and petition architecture  
-- Wrote early product specifications and community-facing materials  
-- Led governance + civic engagement strategy  
-- Publicly wrote about decentralized lobbying and civic systems  
+- Conceived, architected, and led protocol design  
+- Designed decentralized voting and petition flows  
+- Wrote early product specifications and community documentation  
+- Provided governance + civic participation strategy  
+- Published thought leadership on decentralized lobbying  
   - https://seanmgonzalez.medium.com/decentralized-lobbying-9b803a8e56b0
 
 ---
@@ -63,29 +64,28 @@ I founded DeVox within Lobby3 and led the product vision, protocol architecture,
 **Tech:** Solidity • TypeScript • Node.js • React/Next.js • EVM tooling  
 
 ### Overview  
-Pharo is a decentralized insurance platform focused on risk pooling, automated claims, and resilient governance. I co-founded the project and served as the principal full-stack and protocol engineer.
+Pharo is a decentralized insurance platform for automated claims, risk pooling, and chain-resilient governance.
 
 ### Key Contributions  
-- Designed the **Pharo risk algorithm** and product architecture  
-- Built smart contracts and integrated wallet interactions  
-- Developed full-stack components (APIs, backend logic, frontend UX)  
-- Created onboarding flows, dashboards, and data models  
-- Wrote technical specs, engineering handoffs, and tests  
+- Designed the **Pharo risk algorithm** and core product logic  
+- Built smart contracts + EVM integrations  
+- Developed APIs, backend services, and frontend UX  
+- Wrote system specs, flow diagrams, and engineering handoffs  
 
 ---
 
 ## 🔥 SiPPP — Simple Photo Provenance Protocol (Cofounder)  
 **Role:** Cofounder • Lead Architect • Mobile App Developer  
-**Tech:** Python • TypeScript • React • Cryptographic signature flows  
+**Tech:** Python • TypeScript • React • Cryptographic signatures  
 
 ### Overview  
-SiPPP is a decentralized photo provenance and authenticity protocol. I co-founded the project, designed its system architecture, and built the first mobile capture app.
+SiPPP is a decentralized photo provenance protocol ensuring authenticity via signature-based verification.
 
 ### Key Contributions  
-- Designed decentralized signature + verification flow  
-- Built mobile prototype to test identity + crypto wallet UX  
-- Identified early-stage limitation: mobile crypto wallets not mature enough for frictionless provenance  
-- Wrote architecture docs, API contracts, and UX flows  
+- Designed the decentralized provenance architecture  
+- Built the mobile capture/verification prototype  
+- Discovered critical UX bottleneck: mobile crypto wallets too immature for production flows  
+- Authored protocol docs, API interfaces, and UX flows  
 
 ---
 
@@ -94,13 +94,12 @@ SiPPP is a decentralized photo provenance and authenticity protocol. I co-founde
 **Tech:** Solidity • TypeScript • Next.js • Node.js  
 
 ### Overview  
-A transparent supply chain system for crypto mining hardware and device lifecycle tracking.
+A transparent supply chain tracking system for crypto mining hardware.
 
 ### Key Contributions  
-- Designed on-chain/off-chain state transitions  
-- Wrote smart contract interface requirements  
-- Built dashboard and frontend integrations  
-- Coordinated data integrity and event architecture  
+- Defined on-chain/off-chain state transitions and data integrity model  
+- Wrote smart contract requirements and interaction design  
+- Built dashboards + frontend state machine interfaces  
 
 ---
 
@@ -109,12 +108,12 @@ A transparent supply chain system for crypto mining hardware and device lifecycl
 **Tech:** Next.js • Node.js • Wallet integrations  
 
 ### Overview  
-An event creation, RSVP, and check-in system for web3 communities.
+A web3-native event creation and check-in platform.
 
 ### Key Contributions  
-- UX architecture for event lifecycle  
-- Wallet-based RSVP + cryptographic verification  
-- Full-stack builds for flows and internal tools  
+- Designed lifecycle UX (event creation → RSVP → verification)  
+- Implemented wallet-based RSVP and check-in  
+- Built full-stack flows and integrations  
 
 ---
 
@@ -123,12 +122,64 @@ An event creation, RSVP, and check-in system for web3 communities.
 **Tech:** React/Next.js • Node.js • web3 APIs  
 
 ### Overview  
-CryptoRides enabled donors to fund transportation for voters using crypto.
+CryptoRides enabled donor-funded transportation for voters using crypto.
 
 ### Key Contributions  
-- Led product roadmap and end-to-end build  
-- Built frontend + backend integrations  
-- Coordinated civic partner demo and deployment  
+- Led roadmap, design, and technical implementation  
+- Built frontend + backend APIs  
+- Managed civic partner onboarding and demo flows  
+
+---
+
+# 🏢 Consulting & Leadership
+
+## 🧩 **General Influence LLC** (Founder & Lead Consultant, 2015–Present)  
+**Focus:** AI infrastructure, predictive systems, enterprise tooling, decentralized apps, and product strategy.  
+I founded General Influence to deliver specialized technical consulting sourced through the Data Community DC network.
+
+### Key Engagements
+
+---
+
+### **Spring Global — Command Center (AI for CPG Operations)**  
+**Role:** Lead AI Architect & Engineer  
+**Tech:** Python • predictive pipelines • data modeling  
+
+Spring Global operates across South & Central America helping CPG companies manage on-the-ground stock, sales, and delivery operations.  
+I built a centralized **AI-powered Command Center** that predicted stock levels, recommended actions, and supported day-to-day field operations.
+
+**Contributions**  
+- Designed predictive AI workflows for CPG stock + route forecasting  
+- Built core inference logic and data pipeline components  
+- Delivered a UI-ready backend system for managers and delivery workers  
+
+---
+
+### **Picnic — News AI Risk Pipeline**  
+**Role:** Python Developer • AI Infrastructure Engineer  
+**Tech:** Python • NLP • ETL • data ingestion pipelines  
+
+Picnic provides enterprise risk prediction from public information. I built core components of their news ingestion and transformation pipeline.
+
+**Contributions**  
+- Implemented pipelines to ingest, clean, and augment public news data  
+- Built classification and risk assessment modules  
+- Helped design maintainable data/AI infrastructure for enterprise use  
+
+---
+
+### **Optify — Chief Technology Officer (2019–2020)**  
+**URL:** https://www.optifyonline.com/  
+**Role:** CTO • Product Lead • Full-Stack Leader  
+
+Optify delivered enterprise leadership coaching and analytics.  
+I led engineering, product development, and technical direction.
+
+**Contributions**  
+- Oversaw full-stack engineering team  
+- Built product roadmap & technical strategy  
+- Improved platform stability, reliability, and feature velocity  
+- Managed infrastructure and integrations across the stack  
 
 ---
 
@@ -137,53 +188,34 @@ CryptoRides enabled donors to fund transportation for voters using crypto.
 ### **Languages**  
 Python • JavaScript • TypeScript • Solidity • HTML/CSS
 
-### **Frameworks**  
-React • Next.js • Node.js • TailwindCSS • Hardhat • Foundry
+### **Frameworks & Tools**  
+React • Next.js • Node.js • TailwindCSS • Hardhat • Foundry • Vite • SQL
 
-### **Product Skills**  
-Technical specification writing • Roadmapping • Prioritization  
-User flows • UX prototyping • Design systems  
-Protocol architecture • Developer onboarding
+### **Product & Design**  
+Product specifications • Roadmaps • Requirements  
+UX flows • Wireframes • System diagrams  
+Developer-focused UX • Decentralized architecture  
 
-### **System Experience**  
-Decentralized identity • Insurance • Provenance  
-Voting systems • Signature verification  
-Smart contract design • State machines • EVM architecture
+### **Systems & Protocols**  
+EVM & L2 concepts • Identity systems • Insurance logic  
+Provenance & signatures • State machines • Decentralized governance  
 
 ---
 
-# 🏛 Professional Experience
+# 🏛 Professional Experience (Summary)
 
 ### **Independent Technical PM & Full-Stack Engineer (2013–2025)**  
-- Designed decentralized systems and developer tools  
-- Led product direction, specs, UX, prototyping  
-- Built smart contracts, APIs, and full-stack UIs  
-- Collaborated with distributed engineering teams  
-
-### **Director of Lobby3**  
-- Led product direction for civic and governance tools  
-- Founded **DeVox**, a decentralized civic protocol  
-- Coordinated community, engineering, and governance teams  
-
-### **U.S. Department of Defense — Algorithm Developer (2002–2013)**  
-- Designed mission-critical algorithms used in national security systems  
-- Built high-reliability software under strict constraints  
-- Collaborated with research and engineering entities  
-- Developed a foundation in precision, clarity, and system rigor  
-
----
-
-# 👥 Community & Leadership
-
+### **Founder — General Influence LLC (2015–Present)**  
+### **Director — Lobby3 (DeVox creator)**  
+### **CTO — Optify (2019–2020)**  
+### **U.S. DoD — Algorithm Developer (2002–2013)**  
 ### **Founder — Data Community DC (2012–Present)**  
-Built one of the largest grassroots data-science communities in the U.S.  
-Led events, education programs, and community strategy.
 
 ---
 
 # 🔗 Links
 - GitHub: https://github.com/SeanMGonzalez  
-- Projects: https://github.com/GeneralInfluence  
+- GitHub Projects: https://github.com/GeneralInfluence  
 - Medium: https://seanmgonzalez.medium.com  
 - LinkedIn: https://linkedin.com/in/seanmooregonzalez  
 
