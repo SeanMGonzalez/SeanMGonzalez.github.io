@@ -8,8 +8,8 @@ title: "Sean M. Gonzalez — Portfolio"
 Web3 Alias: **Aphilos**  
 Reno, NV (Remote — Pacific Time)  
 Email: **sean.moore.gonzalez@gmail.com**  
-Personal GitHub: **https://github.com/SeanMGonzalez** 
-LLC GitHub: **https://github.com/GeneralInfluence** 
+Personal GitHub: **https://github.com/SeanMGonzalez**  
+LLC GitHub: **https://github.com/GeneralInfluence**  
 LinkedIn: **https://linkedin.com/in/seanmooregonzalez**
 
 ---
