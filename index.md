@@ -1,101 +1,63 @@
 ---
 layout: default
-title: "Sean M. Gonzalez"
+title: "Sean M. Gonzalez — Portfolio"
 ---
 
 # Sean M. Gonzalez (He/Him)
-**Technical Product Manager • Full-Stack Engineer • Web3 Builder**  
-Reno, NV (Remote) • Web3 alias: **Aphilos**  
-Email: **sean.moore.gonzalez@gmail.com** • Phone: **609-923-3179**  
-GitHub: https://github.com/SeanMGonzalez • LinkedIn: https://linkedin.com/in/seanmooregonzalez
+**Technical Product Manager • Full-Stack Engineer • Protocol Designer**  
+Web3 Alias: **Aphilos**  
+Reno, NV (Remote — Pacific Time)  
+Email: **sean.moore.gonzalez@gmail.com**  
+GitHub: **https://github.com/SeanMGonzalez**  
+LinkedIn: **https://linkedin.com/in/seanmooregonzalez**
 
 ---
 
-## About
-I’m a technical product manager and full-stack engineer with:
-- **23 years** in software development
-- **11 years** as a DoD algorithm developer (2002–2013)
-- **10 years** in product design, **4 years** in UX/UI
-- **5 years** building EVM-based decentralized apps
-- **17 years** in business development
-- Founder of **Data Community DC (2012–present)**
+## 🧭 About Me
 
-I specialize in turning complex systems into clear product specs, roadmaps, and shipped software—especially in web3 / protocol-adjacent environments.
+I am a technical product manager, protocol designer, and full-stack engineer with:
 
----
+- **23 years** of software engineering  
+- **11 years** of DoD algorithm development (2002–2013)  
+- **10 years** of product design  
+- **4 years** of UX/UI  
+- **5 years** building decentralized apps  
+- **17 years** of business development  
+- **13 years** of community leadership  
+- Founder of **Data Community DC**  
+- Director of **Lobby3** and creator of **DeVox**  
 
-## Featured projects
+I specialize in designing, building, and communicating complex systems — especially decentralized protocols, identity, insurance, provenance, and web3 infrastructure.
 
-### Pharo — Decentralized Insurance
-**Role:** Product lead • Full-stack engineer • Smart contract design  
-**Focus:** risk pools, claims logic, staking/liquidity flows  
-**Tech:** Solidity, TypeScript, Node.js, React/Next.js
-
-**What I did**
-- Wrote product requirements and system design for core flows
-- Designed contract interaction patterns and user-facing flows
-- Built prototypes and supporting services
+I am most effective in small–medium remote teams that value clear specifications, deep technical thinking, and a strong product philosophy.
 
 ---
 
-### SiPPP — Simple Photo Provenance Protocol
-**Role:** Protocol designer • Full-stack developer • UX  
-**Focus:** authenticity, provenance, signature-based verification  
-**Tech:** Python, Node.js, TypeScript, cryptographic signatures
+# 🚀 Featured Projects
 
-**What I did**
-- Designed verification/signature flow and API architecture
-- Built working prototypes and UX for trust + simplicity tradeoffs
+Below are selected projects demonstrating system design, protocol thinking, product leadership, full-stack engineering, and UX integration.
 
 ---
 
-### NWTT — Crypto Mining Supply Chain
-**Role:** Product manager • System designer • Frontend engineer  
-**Focus:** tracking, state transitions, data integrity  
-**Tech:** Solidity, TypeScript, Next.js, Node.js
+## 🔥 DeVox — Decentralized Civic Impact Protocol  
+**Role:** Founder (within Lobby3) • Director of Lobby3 • Protocol & Product Lead  
+**Domain:** Decentralized governance • Civic tech • Web3 participation  
+**URL:** https://github.com/Lobby3/DeVox
 
-**What I did**
-- Defined on-chain/off-chain architecture and requirements
-- Built dashboards and integration flows
+### Overview  
+DeVox is a decentralized impact protocol created to democratize political participation using pooled petitions, quadratic funding, and decentralized influence tools.  
+I founded DeVox within Lobby3 and led the product vision, protocol architecture, governance mechanics, technical direction, and community strategy.
 
----
-
-### SideventS — Decentralized Event Management
-**Role:** Product • UX • Full-stack  
-**Focus:** event creation, RSVP/check-in, wallet-based flows  
-**Tech:** Next.js, Node.js, web3 wallet integrations
-
-**What I did**
-- Designed event lifecycle UX and product flows
-- Built MVP and documentation for onboarding
+### Key Contributions  
+- Created concept, mission, and protocol structure  
+- Designed decentralized voting and petition architecture  
+- Wrote early product specifications and community-facing materials  
+- Led governance + civic engagement strategy  
+- Publicly wrote about decentralized lobbying and civic systems  
+  - https://seanmgonzalez.medium.com/decentralized-lobbying-9b803a8e56b0
 
 ---
 
-### CryptoRides — Crypto-Funded Rides to Polls
-**Role:** Product lead • Full-stack developer  
-**Focus:** real-world impact, donor UX, integrations  
-**Tech:** Next.js, Node.js, web3 APIs
-
-**What I did**
-- Led product and MVP development end-to-end
-- Built backend + frontend and partner-facing demo flow
-
----
-
-## Skills
-**Product:** roadmaps, requirements/specs, prioritization, stakeholder alignment, technical writing  
-**Frontend:** HTML, CSS/Tailwind, React, Next.js, Vue, TypeScript  
-**Backend:** Node.js, Python, REST, GraphQL  
-**Web3:** Solidity, EVM, wallet integration, smart contracts, token design
-
----
-
-## Links
-- GitHub: https://github.com/SeanMGonzalez
-- GitHub (General Influence): https://github.com/GeneralInfluence
-- LinkedIn: https://linkedin.com/in/seanmooregonzalez
-
----
-
-## Contact
-Email: **sean.moore.gonzalez@gmail.com**
+## 🔥 Pharo — Decentralized Insurance Protocol (Cofounder)  
+**Role:** Cofounder • Full-Stack Engineer • Smart Contract Developer • Algorithm Designer  
+**Tech:** Solidity • TypeScript • Node.js • R
