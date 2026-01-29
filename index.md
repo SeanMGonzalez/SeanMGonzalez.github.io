@@ -3,7 +3,7 @@ layout: default
 title: "Sean M. Gonzalez — Portfolio"
 ---
 
-# Sean M. Gonzalez (He/Him)
+# Sean M. Gonzalez
 **Technical Product Manager • Full-Stack Engineer • Protocol Designer**  
 Web3 Alias: **Aphilos**  
 Reno, NV (Remote — Pacific Time)  
@@ -170,7 +170,7 @@ Picnic provides enterprise risk prediction from public information. I built core
 
 ### **Optify — Chief Technology Officer (2019–2020)**  
 **URL:** https://www.optifyonline.com/  
-**Role:** CTO • Product Lead • Full-Stack Leader  
+**Role:** CTO • CoFounder • Product Lead • Full-Stack Leader  
 
 Optify delivered enterprise leadership coaching and analytics.  
 I led engineering, product development, and technical direction.
